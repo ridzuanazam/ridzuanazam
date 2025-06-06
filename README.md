@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Azam Ridzuan</h1>
-<h3 align="center">A passionate Full Stack Developer</h3>
+<h3 align="center">A Computer Science Student</h3>
 
-- 🌱 I’m currently learning **Laravel Framework**
+- 🔭 I’m currently looking for an **internship**
 
 - 👨‍💻 All of my projects are available at [github.com/ridzuanazam](github.com/ridzuanazam)
 
